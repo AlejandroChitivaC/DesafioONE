@@ -14,7 +14,7 @@ public class Controller {
     public void funcionar() {
         view.setLocationRelativeTo(null);
         view.setVisible(true);
-        view.setSize(300, 200);
+        view.setSize(280, 220);
 
 
 

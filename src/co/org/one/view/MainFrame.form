@@ -27,6 +27,7 @@
             <item value="Seleccione una opción..."/>
             <item value="Conversor de Moneda"/>
             <item value="Conversor de Temperatura"/>
+            <item value="Conversor de Distancias"/>
           </model>
           <toolTipText value=""/>
         </properties>
